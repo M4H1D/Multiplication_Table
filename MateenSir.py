@@ -10,6 +10,6 @@ while True:
         print("Bye Bye...")
         break
     else:
-        print("error")
+        print("Error")
         print("Please run the code again & type correct number...")
         break
