@@ -1,4 +1,4 @@
-x=""
+# unlimited Multiplication Table, if you want..
 while True:
     n=int(input("Enter a number: "))
     for i in range(1,11):
